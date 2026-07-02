@@ -2,6 +2,8 @@
 
 An AI-powered Fake Job Posting Detection system that identifies fraudulent job advertisements using **Machine Learning**, **Natural Language Processing (NLP)**, and an interactive **Streamlit** dashboard.
 
+# Live demo link
+https://fraudlens-ai-lqiameepcx57uicgwry96c.streamlit.app/
 
 
 ## 📌 Overview
